@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://CamLove2106.github.io",
+            "url": "http://camlove2106.github.io",
             "webRoot": "${workspaceFolder}"
         }
     ]
