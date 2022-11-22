@@ -421,8 +421,8 @@ img { max-width: 100%; }
 	clear: both;
 }
 
-input[type="radio"] {}
-input[type="submit"] {}
+/*input[type="radio"] {}*/
+/*input[type="submit"] {}*/
 
 label {display: block;}
 input {display: block;}
