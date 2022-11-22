@@ -6,7 +6,7 @@ Base styles for all screen widths
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #FFF;
+	background: linear-gradient(120deg, #2980b9, #8e44ad);
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #333;
 	font-size: 100%;/*16px=1em*/
