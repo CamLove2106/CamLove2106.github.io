@@ -14,7 +14,7 @@ body{
     transform: translate(-50%, -50%);
     width: 400px;
     background: white;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .center h1 {
@@ -81,7 +81,6 @@ form .txt_field {
     margin: -5px 0 20px 5px;
     color: #a6a6a6;
     cursor: pointer;
-    border-top: 10px;
 }
 
 .pass:hover{
@@ -99,7 +98,6 @@ input[type="Submit"]{
     font-weight: 700;
     cursor: pointer;
     outline: none;
-    border-bottom: 10px;
 }
 
 input[type="submit"]:hover{
